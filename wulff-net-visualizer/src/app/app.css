@@ -1,0 +1,9 @@
+/* src/app/app.css */
+.visualizer-container {
+  flex-grow: 1;
+  height: 100%; /* Убедись, что высота на весь экран */
+  position: relative;
+  overflow: visible; /* Позволяет видеть элементы за границей, если нужно */
+}
+
+/* Убери фиксированную высоту 600px, если она есть в коде */

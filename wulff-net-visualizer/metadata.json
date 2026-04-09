@@ -1,0 +1,5 @@
+{
+  "name": "Wulff Net Visualizer",
+  "description": "A 3D visualization of a Wulff net (stereographic projection) using Three.js and Angular.",
+  "requestFramePermissions": []
+}
